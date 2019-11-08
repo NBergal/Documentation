@@ -1,0 +1,54 @@
+Interface
+    Buttons
+    Fonts
+    Colors
+    Sizes
+    Pages
+    Navs
+    Images
+    Animation speed
+
+Database
+    Microsoft SQL Server
+        Targets
+        Synonyms
+        Tables
+        Relations
+        Password encryption
+        Error exceptions
+
+Application
+    Xamarin (C#, XAML, SQL)
+        Buttons
+            Functions
+            Classes
+            Methods
+            Appearance
+
+        Links
+            Source
+            Way
+
+        Images
+            Resolution
+            Border-radius
+
+        Drop-down lists
+            Database access
+            {}
+        
+        Other elements
+            {}
+
+    Pages
+        User's manual
+        {}
+
+    Add database offline
+        {}
+
+    Add database online
+        {}
+
+Server
+    {}
